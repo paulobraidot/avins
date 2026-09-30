@@ -34,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: avins.apk
-          path: src/app/build/outputs/apk/debug/avins.apk
+          path: src/app/build/outputs/apk/debug/apk-debug.apk
